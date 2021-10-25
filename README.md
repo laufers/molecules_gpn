@@ -4,11 +4,9 @@ Demo repository for the GPN version control workshop.
 Now I can add more information about the repo. 
 
 
-What does. 
+What this code does. 
 
 Methods. 
-
-data types 
 
 * list 1
 * list 2
